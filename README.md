@@ -4,6 +4,17 @@
 
 This project leverages Apache Spark to demonstrate the MapReduce paradigm using a mental health dataset sourced from Kaggle. The dataset includes various attributes related to mental health, stress levels, and lifestyle factors. The primary goal of this analysis is to showcase how MapReduce can be applied to process and analyze large-scale data effectively. By utilizing PySpark’s distributed data processing capabilities, the project illustrates the practical implementation of MapReduce operations.
 
+# Dataset
+
+Mental Health & Technology Usage Dataset
+
+This dataset offers insights into how daily technology usage, including social media and screen time, impacts mental health. 📊 It captures various behavioral patterns and their correlations with mental health indicators like stress levels, sleep quality, and productivity. Dive in to analyze the relationship between our digital lives and mental wellness! 🌟
+
+The data is useful for research, academic projects, or building predictive models to understand trends in mental health influenced by screen time and technology habits. 
+
+Dataset link:  https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset
+
+
 # MapReduce 
 In this PySpark program, MapReduce is used to process and analyze a mental health dataset.
 
@@ -12,4 +23,4 @@ Map Phase: The dataset is grouped by attributes like Stress_Level, and counts ar
 Reduce Phase: The intermediate results from the Map phase are aggregated to produce the final counts for each attribute. This phase combines the data to generate the output that shows the distribution of stress levels.
 
 
-Dataset link:  https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset
+
