@@ -8,9 +8,7 @@ This project leverages Apache Spark to demonstrate the MapReduce paradigm using 
 
 Mental Health & Technology Usage Dataset
 
-This dataset offers insights into how daily technology usage, including social media and screen time, impacts mental health. 📊 It captures various behavioral patterns and their correlations with mental health indicators like stress levels, sleep quality, and productivity. Dive in to analyze the relationship between our digital lives and mental wellness! 🌟
-
-The data is useful for research, academic projects, or building predictive models to understand trends in mental health influenced by screen time and technology habits. 
+This dataset offers insights into how daily technology usage, including social media and screen time, impacts mental health. 📊 It captures various behavioral patterns and their correlations with mental health indicators like stress levels, sleep quality, and productivity. 
 
 Dataset link:  https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset
 
