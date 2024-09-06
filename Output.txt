@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+## Insights from the Output
+
+Mental Health Status:
+
+"Excellent" is the most common mental health status with 2,518 occurrences.
+"Poor" is the least common with 2,484 occurrences.
+
+The distribution among "Good", "Fair", and "Excellent" is fairly close, suggesting a relatively balanced dataset in terms of reported mental health status.
+
+Stress Level:
+
+"Medium" is the most frequent stress level with 3,338 occurrences.
+"Low" and "High" stress levels are also significant but slightly less common compared to "Medium".
+
+This distribution shows that the dataset has a broad range of stress levels, with "Medium" being the most common category.
